@@ -55,28 +55,6 @@ motivation and interests, <br><b>let's connect!</b> -->
         <td>:&nbsp; <a href="https://www.ece.ucf.edu/person/yaser-p-fallah/" target="_blank"> Dr. Yaser P.
             Fallah</a> </td>
     </tr>
-    <tr>
-      <td>
-          <b>Roles & Achievements</b><br>
-      </td>
-      <td>
-          <ul>
-              <li>
-              Graduate Research Assistant.
-              </li>
-              <li>
-              Graduate Teaching Assistant: EECS 140 Introduction to Digital Logic Design.
-              </li>
-              <!-- <li>
-              Recipient of Graduate Dean's Fellowship.
-              </li>
-              <li>
-              Recipient of Hoglund Fellowship.
-              </li> -->
-          </ul>
-      <!-- <td> :&nbsp;</td> -->
-      </td>
-    </tr>
 </table>
 
 <!-- <ul>
