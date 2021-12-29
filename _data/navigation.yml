@@ -7,7 +7,7 @@ main:
     url: /about/
   - title: "Categories"
     url: /categories/
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
   # - title: "Resume"
   #   url: /assets/docs/Nitish_Gupta_Resume.pdf
