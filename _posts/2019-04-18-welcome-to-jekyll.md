@@ -7,6 +7,8 @@ tags:
   - Jekyll
   - update
 classes: wide
+header:
+  teaser: "/assets/images/mountains.jpg"
 # layout: splash
 # classes:
 #   - landing

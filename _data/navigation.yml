@@ -1,12 +1,12 @@
 main:
-  - title: "Posts"
+  - title: "Blogs"
     url: /posts/
   - title: "Projects"
     url: /projects/
   - title: "About"
-    url: /about/
-  - title: "Categories"
-    url: /categories/
+    url: /me/
+  # - title: "Categories"
+  #   url: /categories/
   # - title: "Publications"
   #   url: /publications/
   # - title: "Resume"

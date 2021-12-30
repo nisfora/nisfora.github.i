@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /me/
 title: "About me"
 # author_profile: false
 
@@ -22,110 +22,49 @@ toc_sticky: true
 <!-- About -->
 > ***"We are getting close to intelligent machines, but they are showing the necessary weakness of intelligence."*** — Richard Feynman
 
-<!-- Currently, an AI Robotics researcher at
-<a href="http://www.nhkinternational.com/" target="_blank">NHK International Corporation, USA</a>,
-leading the development of Robotics based SOTA reinforcement algorithms.
-Previously, a Cooperative Autonomous Vehicle Researcher at
-<a href="http://www.eecs.ucf.edu/NSL/" target="_blank">Networked Systems Lab, UCF</a>.
-Here I worked on cutting-edge technologies in the field of Connected Autonomous Vehicles.
-Our main focus of research at NSL had been the development of Safety Applications and
-Advanced driver-assistance systems (ADAS) for automated vehicles. My specialties also
-include tackling challenges in Sensor Fusion, Path Planning, and Localization by developing
-highly robust algorithms & accurate deep learning models.
-<br>In my leisure time, I love to do gardening, play chess, read books/blogs and travel. If you share a
-similar
-motivation and interests, <br><b>let's connect!</b> -->
-
-
-## Education
-**University of Central Florida**  
-*Ph.D. in Computer Engineering &nbsp;[GPA: 4.00 / 4.00]*
-
-<table>
-    <tr>
-        <td><b>Research</b></td>
-        <td> :&nbsp; Real-time Autonomous Systems</td>
-    </tr>
-    <tr>
-        <td><b>Advisor</b></td>
-        <td>:&nbsp; <a href="https://www.ece.ucf.edu/~zsguo/index.html" target="_blank"> Dr. Zhishan Guo</a></td>
-    </tr>
-    <tr>
-        <td><b>Co-advisor</b></td>
-        <td>:&nbsp; <a href="https://www.ece.ucf.edu/person/yaser-p-fallah/" target="_blank"> Dr. Yaser P.
-            Fallah</a> </td>
-    </tr>
-</table>
-
-<!-- <ul>
-    <li>
-    Graduate Research Assistant.
-    </li>
-    <li>
-    Graduate Teaching Assistant: EECS 140 Introduction to Digital Logic Design.
-    </li>
-    <li>
-    Recipient of Graduate Dean's Fellowship.
-    </li>
-    <li>
-    Recipient of Hoglund Fellowship.
-    </li>
-</ul> -->
-
-
-
-<!-- <div type="button" class="wrapper">
-  Courses
-  <div class="tooltip">
-    <ul>
-        <li>CAP 6671 - Intelligent Systems: Robots, Agents, and Humans</li>
-        <li>CAP 5415 - Computer Vision</li>
-        <li>CDA 5106 - Advanced Computer Architecture</li>
-        <li>COP 6616 - Multicore Programming</li>
-        <li>COT 5405 - Design & Analysis of Algorithms</li>
-        <li>EEL 5722C - Field Programmable Gate Arrays</li>
-        <li>EEL 5820 - Image Processing</li>
-        <li>EEL 6938 - Modeling and Analysis of Networked
-            Cyber-Physical Systems</li>
-        <li>EEL 6971 - Thesis</li>
-    </ul>
-  </div>
+## Education  
+<div class="card">
+  <ul class="card-text">
+      <li>Ph.D., <a class="website-links" href="http://www.cecs.ucf.edu/" target="_blank">Computer Science</a>, <a class="website-links" href="http://www.ucf.edu/" target="_blank">University of Central Florida</a>, <i>2021-Present</i>. (advisor: Dr. <a class="website-links" href="https://www.ece.ucf.edu/~zsguo/index.html" target="_blank">Zhishan Guo</a>; Co-advisor: Dr. <a class="website-links" href="https://www.ece.ucf.edu/person/yaser-p-fallah/" target="_blank">Yaser P. Fallah</a>)</li>
+      <li>M.S., <a class="website-links" href="http://www.cecs.ucf.edu/" target="_blank">Computer Engineering</a>, <a class="website-links" href="http://www.ucf.edu/" target="_blank">University of Central Florida</a>, <i>2018</i>. (advisor: Dr. <a class="website-links" href="https://www.ece.ucf.edu/person/yaser-p-fallah/" target="_blank">Yaser P. Fallah</a>)</li>
+      <li>B.Eng. in Electronics Engineering, <a class="website-links" href="http://www.mu.ac.in/">University of Mumbai</a>, <i>2009</i>. (Ranked 1st amongst 120 students in the Electronics dept.)</li>
+  </ul>
 </div>
 
-<ul>
-    <li>CAP 6671 - Intelligent Systems: Robots, Agents, and Humans</li>
-    <li>CAP 5415 - Computer Vision</li>
-    <li>CDA 5106 - Advanced Computer Architecture</li>
-    <li>COP 6616 - Multicore Programming</li>
-    <li>COT 5405 - Design & Analysis of Algorithms</li>
-    <li>EEL 5722C - Field Programmable Gate Arrays</li>
-    <li>EEL 5820 - Image Processing</li>
-    <li>EEL 6938 - Modeling and Analysis of Networked
-        Cyber-Physical Systems</li>
-    <li>EEL 6971 - Thesis</li>
-</ul> -->
-            
-### University of Central Florida
-
-### University of Mumbai
-
-
 ## Experience
+### Real-Time & Intelligent Systems Lab 
+*Graduate Research Assistant [Aug. 2021 - Present]*
+* Leading the F1tenth-autonomous racing platform development team
+* Exploring and collaborating research in applications of ML and RL in real-time cyber-physical systems
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+### NHK International Corporation
+*Research Engineer II - Research & Analysis Team [Nov. 2018 - July 2020]*
+* Prototyping and Development of factory automation systems based on robotics and SOTA computer vision
+algorithms for a highly dynamic industrial environment
+* Developed Pipeline to acquire point cloud data from sensor, integration with ROS, point cloud segmentation, model
+fitting using RANSAC and ICP, model perception, robot motion & path planning with Moveit, and supported with
+a Qt-based GUI
 
-<!-- ![Smithsonian Image]({{ site.url }}{{ site.baseurl }}/assets/images/3953273590_704e3899d5_m.jpg)
-{: .image-right} -->
+### CAVREL at UCF
+*Graduate Research Assistant [Feb. 2017 - Aug. 2018]*
+* Real-Time SIL Emulator for ADAS Testing and Validation – *Sponsor: Ford Motor Company*
+* Small-scale Connected Autonomous Vehicle – *Sponsor: NSL*
+* Vehicle Safety Communications Applications – *Sponsor: CAMP*
 
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+### Giant Health Events
+*Machine Learning Intern [May 2017 - June 2017]*
 
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
+### Tata Consultancy Services Ltd. 
+*Business Intelligence Developer [Sept. 2014 - July 2016]*
 ## Projects
 
 > Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
 
 ## Skills
+<h5>Languages:</h5> Python, C++, C, MATLAB
+*Hardware:* LiDAR, Depth Cameras, NVidia Jetsons, Arduino, Raspberry Pi, FPGA
+*Libraries:* TensorFlow, Keras, PyTorch, OpenAI Gym, PCL, VTK, OpenCV, Eigen, Pandas
+*Tools:* ROS 1/2, Git, Gazebo, Moveit, CloudCompare, NS3, SUMO simulator, Qt, VSCode
 
 ## Publications
 
@@ -153,6 +92,47 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
 |=====
 | Foot1   | Foot2   | Foot3
 {: rules="groups"}
+
+<table>
+    <thead>
+        <th>S.No</th>
+        <th>Name</th>
+        <th>Date of Birth</th>
+        <th>Profile</th>
+        <th>Salary</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Jeff Smith</td>
+            <td>35</td>
+            <td>Assistant Manager</td>
+            <td>120,000</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Maria Garcia</td>
+            <td>42</td>
+            <td>Department Head</td>
+            <td>85,000</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>David Rodriguez</td>
+            <td>37</td>
+            <td>Senior Sales Executive</td>
+            <td>45,000</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Eyon Shih</td>
+            <td>32</td>
+            <td>Sales Executive</td>
+            <td>35,000</td>
+        </tr>
+    </tbody>
+</table>
+
 
 ## Code Snippets
 
